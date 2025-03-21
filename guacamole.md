@@ -8,5 +8,6 @@ List of the ingredients:
 4. Tomato
 6. new line
 
-##Process
-cut everything
+## Process
+cut everything, this is a new step from git
+another line to be commit it
